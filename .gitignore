@@ -234,3 +234,6 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/Wrinkles.v2.ncrunchsolution
+/Wrinkles.Tests/Wrinkles.Tests.v2.ncrunchproject
+/Wrinkles/Wrinkles.v2.ncrunchproject
