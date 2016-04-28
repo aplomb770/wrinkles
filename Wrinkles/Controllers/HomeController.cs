@@ -15,7 +15,7 @@ namespace Wrinkles.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "About wrinkles";
+            ViewBag.Message = "About wrinkles!!";
 
             return View();
         }
