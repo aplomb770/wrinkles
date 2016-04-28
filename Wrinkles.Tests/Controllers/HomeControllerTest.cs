@@ -35,7 +35,7 @@ namespace Wrinkles.Tests.Controllers
             ViewResult result = controller.About() as ViewResult;
 
             // Assert
-            Assert.AreEqual("About v2", result.ViewBag.Title);
+            Assert.AreEqual("About wrinkles!", result.ViewBag.Message);
         }
 
         [TestMethod]
